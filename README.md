@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Add your social media or LinkedIn profiles here -->
+  (https://Linkedin.com/in/swati-adhe-039098216)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
