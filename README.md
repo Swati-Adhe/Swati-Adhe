@@ -12,7 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Swati-Adhe](https://github.com/Swati-Adhe)
 
-- 📫 How to reach me **swatiadhe175@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
